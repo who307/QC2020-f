@@ -1,0 +1,22 @@
+$default-width: 100%;
+$default-height: 100%;
+$default-padding: 1em;
+$default-margin-top: 1em;
+$default-margin-right: 1em; 
+
+$default-font-weight: 300;
+
+$default-p-size: 22px;
+$default-p-line-height: 1.5;
+$default-p-margin: 0;
+$default-p-max-width: 80%;
+
+$before-content: "“";
+$after-content: "”";
+
+$qborder-red : 20px solid rgb(255, 71, 71);
+$qborder-orange : 20px solid rgb(255, 179, 80);
+$qborder-blue : 20px solid rgb(57, 57, 138);
+
+$box-shadow-color : black;
+$box-shadow: 0 1px 2px $box-shadow-color, 0 2px 4px $box-shadow-color;

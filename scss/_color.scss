@@ -1,0 +1,31 @@
+//Alpa value
+$alpha: 0.8;
+
+// default color
+$vlue: rgb(134, 189, 248) !default;
+$furfle: rgb(133, 41, 133) !default;
+$led: rgb(241, 109, 109) !default;
+$wellow: rgb(245, 245, 66) !default;
+$kreen:rgb(157, 243, 157) !default;
+// Grey
+$kray: rgb(160, 158, 158) !default;
+$ddark: rgb(36, 35, 35) !default;
+//Black & white
+$hite: rgb(255, 255, 255) !default;
+$vlack: rgb(0, 0, 0) !default;
+
+// background color 
+$bg-vlue: rgba($vlue, $alpha) !default;
+$bg-furfle: rgba($furfle, $alpha) !default;
+$bg-led: rgba($led, $alpha) !default;
+$bg-wellow: rgba($wellow, $alpha) !default;
+$bg-kreen: rgba($kreen, $alpha) !default;
+
+// default color array
+$default-color: (
+  'vlue': $vlue,
+  'furfle': $furfle,
+  'led': $led,
+  'wellow': $wellow,
+  'kreen': $kreen,
+);
